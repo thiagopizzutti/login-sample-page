@@ -93,6 +93,6 @@ export const Form = styled.form`
 
 export const Background = styled.div`
   flex: 1;
-  background: url(${bgImage}) no-repeat center;
+  background: url(${bgImage}) no-repeat left;
   background-size: cover;
 `;
