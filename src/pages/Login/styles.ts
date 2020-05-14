@@ -87,7 +87,7 @@ export const Form = styled.form`
     text-decoration: none;
     color: white;
     font-size: 1.3rem;
-    padding-bottom: 40px;
+    padding-bottom: 41px;
   }
 `;
 

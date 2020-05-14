@@ -8,7 +8,7 @@ export default createGlobalStyle`
   outline:0;
   }
 body{
-  background: linear-gradient(-45deg, #434343 0%, black 100%);
+  background: linear-gradient(-45deg, #434343 0%, black 99%);
   color: #FFF;
   -webkit-font-smoothing: antialiased;
   font-size: 16px;
